@@ -1,4 +1,4 @@
-
+![logo]((https://github.com/aizazahmed001/aizazahmed001/blob/main/Github%20Banner.jpg))
 <h1 align="center">Hi 👋, I'm AIZAZ AHMED</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
