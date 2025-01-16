@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
+[![MasterHead](https://i.pinimg.com/originals/a5/a3/b5/a5a3b5fc0e75f4b44551593711ed2039.gif)](https://codegrills.in)
 
 <h1 align="center">Hi 👋, I'm AIZAZ AHMED</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
