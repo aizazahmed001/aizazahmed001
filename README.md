@@ -1,6 +1,6 @@
 ![logo](https://github.com/aizazahmed001/aizazahmed001/blob/main/Github%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm AIZAZ AHMED</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h3 align="center">🎓 Software Engineering Student | 🖌 UI/UX Designer | 💻 Web Developer | 🚀 Aspiring Innovator</h3>
 
 <img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aizazahmed001&label=Profile%20views&color=0e75b6&style=flat" alt="aizazahmed001" /> </p>
