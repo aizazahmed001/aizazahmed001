@@ -154,49 +154,6 @@ const AizazAhmed = {
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🌐 [Visit My Portfolio Website](https://aizaz-se.vercel.app)
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><b>BPA FYP Portal</b></td>
-    <td>Automated Final Year Project Management System with complete workflow automation</td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></td>
-    <td><a href="https://github.com/aizazahmed001/BPA-Automated-FYP-Portal">View →</a></td>
-  </tr>
-  <tr>
-    <td><b>Frontend Portfolio</b></td>
-    <td>Showcase of frontend development skills with modern web technologies</td>
-    <td><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></td>
-    <td><a href="https://github.com/aizazahmed001/Frontend-Development">View →</a></td>
-  </tr>
-  <tr>
-    <td><b>OOP Projects</b></td>
-    <td>Comprehensive collection of Object-Oriented Programming concepts in C++ and Java</td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></td>
-    <td><a href="https://github.com/aizazahmed001/OOP-in-Cpp-and-Java">View →</a></td>
-  </tr>
-  <tr>
-    <td><b>Jira SRE Project</b></td>
-    <td>Software Requirements Engineering project with complete traceability</td>
-    <td><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Requirements-Engineering-blue?style=flat"/></td>
-    <td><a href="https://github.com/aizazahmed001/Jira-Projects">View →</a></td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
