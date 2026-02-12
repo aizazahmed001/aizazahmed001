@@ -1,30 +1,251 @@
-![logo](https://github.com/aizazahmed001/aizazahmed001/blob/main/Github%20Banner.jpg)
-<h1 align="center">Hi there 👋, I'm AIZAZ AHMED</h1>
-<h3 align="center">🎓 Software Engineering Student | 🖌 UI/UX Designer | 💻 Web Developer | 🚀 Aspiring Innovator</h3>
+<div align="center">
 
-<img align="right" alt="Coding" width="400px" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aizazahmed001&label=Profile%20views&color=0e75b6&style=flat" alt="aizazahmed001" /> </p>
+<!-- Enhanced Header with Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Muhammad%20Hamza&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Transforming%20Ideas%20into%20Scalable%20Solutions&descAlignY=52&descSize=18"/>
 
-- 🌱 I’m currently learning **Web Development, App Development, Java, Python**
+<!-- Dynamic Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+Machine+Learning+Enthusiast+%F0%9F%A4%96;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+New+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://dribbble.com/AIZAZAHMED](https://dribbble.com/AIZAZAHMED)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, C++**
-
-- 📫 How to reach me **aizazahmed098@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aizaz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aizaz ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/aizaz khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aizaz khan" height="30" width="40" /></a>
-<a href="https://instagram.com/aizazofficial_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aizazofficial_01" height="30" width="40" /></a>
-<a href="https://dribbble.com/aizaz ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="aizaz ahmed" height="30" width="40" /></a>
-<a href="https://www.behance.net/aizazahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aizazahmed" height="30" width="40" /></a>
+<!-- Profile Views and Socials in One Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aizazahmed001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/aizazahmed001?tab=followers">
+    <img src="https://img.shields.io/github/followers/aizazahmed001?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://aizaz-se.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel" alt="Portfolio" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aizazahmed001&show_icons=true&locale=en&layout=compact" alt="aizazahmed001" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aizazahmed001&show_icons=true&locale=en" alt="aizazahmed001" /></p>
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const AizazAhmed = {
+    location: "📍 Islamabad, Pakistan",
+    education: "🎓 Software Engineering Student",
+    role: "💼 Full-Stack Developer",
+    
+    expertise: {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express", "MongoDB", "MySQL"],
+        cloud: ["AWS Basics", "Cloud Computing"],
+        languages: ["JavaScript", "Python", "Java", "C++"]
+    },
+    
+    currentlyLearning: ["AI/ML", "Cloud Architecture", "System Design"],
+    openTo: ["Internships", "Full-time Roles", "Freelance Projects"],
+    
+    motto: "☕ Coffee → 💻 Code → 🚀 Deploy → 🔁 Repeat"
+};
+```
+
+### 💡 What Sets Me Apart
+
+<table>
+  <tr>
+    <td>🎯</td>
+    <td><b>Problem Solver</b><br/>Love tackling complex challenges with elegant solutions</td>
+    <td>🏗️</td>
+    <td><b>Full-Stack Builder</b><br/>From database to deployment, I handle it all</td>
+  </tr>
+  <tr>
+    <td>⚡</td>
+    <td><b>Fast Learner</b><br/>Quick to adapt to new technologies and frameworks</td>
+    <td>🤝</td>
+    <td><b>Team Player</b><br/>Excellent collaboration and communication skills</td>
+  </tr>
+  <tr>
+    <td>📈</td>
+    <td><b>Growth Mindset</b><br/>Always improving, always evolving</td>
+    <td>🎨</td>
+    <td><b>Design Conscious</b><br/>Craft beautiful, user-friendly interfaces</td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=icloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & Platforms</b></summary>
+<br>
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aizazahmed001&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt=""/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aizazahmed001&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F85D7F" alt="k"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizazahmed001&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt=""/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aizazahmed001&theme=high-contrast&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aizazahmed001&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt=""/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🌐 [Visit My Portfolio Website](https://aizaz-se.vercel.app)
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><b>BPA FYP Portal</b></td>
+    <td>Automated Final Year Project Management System with complete workflow automation</td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></td>
+    <td><a href="https://github.com/aizazahmed001/BPA-Automated-FYP-Portal">View →</a></td>
+  </tr>
+  <tr>
+    <td><b>Frontend Portfolio</b></td>
+    <td>Showcase of frontend development skills with modern web technologies</td>
+    <td><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></td>
+    <td><a href="https://github.com/aizazahmed001/Frontend-Development">View →</a></td>
+  </tr>
+  <tr>
+    <td><b>OOP Projects</b></td>
+    <td>Comprehensive collection of Object-Oriented Programming concepts in C++ and Java</td>
+    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/></td>
+    <td><a href="https://github.com/aizazahmed001/OOP-in-Cpp-and-Java">View →</a></td>
+  </tr>
+  <tr>
+    <td><b>Jira SRE Project</b></td>
+    <td>Software Requirements Engineering project with complete traceability</td>
+    <td><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/Requirements-Engineering-blue?style=flat"/></td>
+    <td><a href="https://github.com/aizazahmed001/Jira-Projects">View →</a></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+### 💼 Ready to Collaborate? Let's Talk!
+
+<a href="https://aizaz-se.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/aizazahmed098/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:aizazahmed098@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://github.com/aizazahmed001">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://instagram.com/aizazofficial_01">
+  <img src="https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br><br>
+
+### 📬 Quick Reach
+
+```yaml
+📧 Email: aizazahmed098@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/aizazahmed098
+🌐 Portfolio: aizaz-se.vercel.app
+📍 Location: Islamabad, Pakistan
+💡 Status: Open to Opportunities
+⚡ Response: Within 24 hours
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer's Wisdom
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+### 🌟 Thanks for Visiting!
+
+**If you like my work, consider giving a ⭐ to my repositories!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+</div>
